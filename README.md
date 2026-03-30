@@ -1,21 +1,14 @@
-## Hi, I'm Relina
+# Hi, I'm Relina 👋
 
-<!-
+I'm a CS student passionate about building things and learning new technologies.
 
-- 👾 I’m currently a CS student
-  
-  
-- ⚙️ Technology and Tools:
+## 🛠️ Technologies & Tools
 - Python
 - JavaScript
 
-  
-- 🪄 Projects:
-- (tbc)
-  
-  
-- 📫 How to reach me:
-- LinkedIn: -
-- Email: -
-  
--->
+## 🚀 Projects
+- (coming soon!)
+
+## 📫 How to reach me
+- LinkedIn: 
+- Email:
