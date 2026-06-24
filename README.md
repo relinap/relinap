@@ -7,8 +7,7 @@ I'm a CS student passionate about building things and learning new technologies.
 - JavaScript
 
 ## 🚀 Projects
-- (coming soon!)
+- PriceShock
 
 ## 📫 How to reach me
-- LinkedIn: 
-- Email:
+- LinkedIn: https://www.linkedin.com/in/relina-patel-630208282 
