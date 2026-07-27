@@ -6,8 +6,6 @@ CS student building things at the intersection of software engineering and quant
 
 **[AlgoBackTest](https://github.com/relinap/AlgoBack)** — an event-driven backtesting engine, built bar-by-bar with zero look-ahead bias. Implements MA Crossover and RSI strategies, reports Sharpe/Sortino/Calmar/VaR, and ships with a full pytest suite running on GitHub Actions CI.
 
-[![Tests](https://github.com/relinap/AlgoBack/actions/workflows/tests.yml/badge.svg)](https://github.com/relinap/AlgoBack/actions)  🔗 **[Live demo](https://algoback.onrender.com)**
-
 **[PriceShock](https://github.com/relinap/PriceShock)** — an interactive volatility shockwave simulator built with Python, Black-Scholes, and real market data.
 
 ## 🛠️ Tools I reach for
